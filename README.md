@@ -84,7 +84,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <https://github.com/AlexErm-bot/Briaton/>
+   git clone https://github.com/AlexErm-bot/Briaton/
 2. Перейдите в папку проекта:
    ```bash
    cd Briaton
